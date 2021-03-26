@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+
+# in order to run this just put it on a different usb or pretransfer it to the computer youre doing a base install on
+# just running this will IN THEORY perform a base arch install for you
+
 # return codes
 SUCCESS=0
 FAILURE=1
